@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vigia//Fechas del Diario Oficial//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vigía · Entradas en vigor
+X-WR-TIMEZONE:America/Mexico_City
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:mx-dof-5800401@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Informativo · CONDUSEF suspende atención presencial en Chihuahua
+  el 23 de septiembre de 2026
+DESCRIPTION:La CONDUSEF suspende la atención presencial y los términos y
+  plazos legales en la Unidad de Atención a Usuarios Norte 3 (Chihuahua) 
+ el 23 de septiembre de 2026\, por condiciones meteorológicas. Los trámi
+ tes remotos y la…\n\nhttps://vigiadof.com/p/dof/5800401/
+URL:https://vigiadof.com/p/dof/5800401/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5800405@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Informativo · Día inhábil en Delegación Sonora de PRODECON por
+  huracán Polo
+DESCRIPTION:Se suspenden actividades y se declara inhábil el 29 de septie
+ mbre de 2026 únicamente para la Delegación Sonora de la PRODECON por el
+  Huracán Polo\; no corren plazos legales ante dicha unidad administrativ
+ a.\n\nhttps://vigiadof.com/p/dof/5800405/
+URL:https://vigiadof.com/p/dof/5800405/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5800157@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Informativo · Modifican RMF 2026: ISR de jugadores FIFA y precio 
+ base de diésel
+DESCRIPTION:El SAT publicó la Segunda Resolución de Modificaciones a la 
+ RMF 2026\, que ajusta reglas sobre el pago de ISR de jugadores extranjero
+ s de la Copa Mundial FIFA 2026\, actualiza los factores de precio base de
+ l diésel hasta…\n\nhttps://vigiadof.com/p/dof/5800157/
+URL:https://vigiadof.com/p/dof/5800157/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-118-011026-pdf-p6@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Actúa · Gobernador de Tamaulipas delega facultad sancionadora de
+ l artículo 1008 de la Ley Federal del Trabajo
+DESCRIPTION:El Gobernador de Tamaulipas emite un Acuerdo que delega la fac
+ ultad sancionadora prevista en el artículo 1008 de la Ley Federal del Tr
+ abajo (Título Dieciséis\, sanciones administrativas) en funcionarios su
+ bordinados\,…\n\nhttps://vigiadof.com/p/tamaulipas/cli-118-011026-pdf-p
+ 6/
+URL:https://vigiadof.com/p/tamaulipas/cli-118-011026-pdf-p6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5799957@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Revisa · Decreto otorga estímulos fiscales para el sorteo 'El Bu
+ en Fin' 2026
+DESCRIPTION:El decreto otorga un estímulo fiscal acreditable contra el IS
+ R a entidades financieras y emisoras de tarjetas que participen en el sor
+ teo 'El Buen Fin' 2026\, por el monto entregado como premios a tarjetahab
+ ientes y…\n\nhttps://vigiadof.com/p/dof/5799957/
+URL:https://vigiadof.com/p/dof/5799957/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-116-290926-ev-pdf-66-486@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Informativo · Convocatoria a sesión extraordinaria del Congreso 
+ de Tamaulipas
+DESCRIPTION:Procedimiento legislativo interno sin impacto directo en empre
+ sas manufactureras.\n\nhttps://vigiadof.com/p/tamaulipas/cli-116-290926-e
+ v-pdf-66-486/
+URL:https://vigiadof.com/p/tamaulipas/cli-116-290926-ev-pdf-66-486/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5799453@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Informativo · FONATUR convoca licitación pública para venta de 
+ inmuebles
+DESCRIPTION:Convocatoria de FONATUR para la Licitación Pública No. FONAT
+ UR-LP-DC-003-2026\, sin relevancia directa para empresas manufactureras d
+ e exportación.\n\nhttps://vigiadof.com/p/dof/5799453/
+URL:https://vigiadof.com/p/dof/5799453/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-113-220926-pdf-66-483@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Informativo · Convocatoria a sesión extraordinaria del Congreso 
+ de Tamaulipas
+DESCRIPTION:Procedimiento legislativo interno del Congreso de Tamaulipas s
+ in impacto directo en empresas manufactureras de exportación.\n\nhttps:/
+ /vigiadof.com/p/tamaulipas/cli-113-220926-pdf-66-483/
+URL:https://vigiadof.com/p/tamaulipas/cli-113-220926-pdf-66-483/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

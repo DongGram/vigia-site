@@ -3,6 +3,7 @@
   const $ = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => [...r.querySelectorAll(s)];
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const KO = document.documentElement.lang === "ko", LOC = KO ? "ko-KR" : "es-MX";
 
   /* reveal on scroll */
   const items = $$("[data-reveal]");
@@ -19,9 +20,12 @@
     const t = new Date(live.dataset.built), mins = Math.round((Date.now() - t) / 60000);
     const label = $(".live-t", live);
     if (!isNaN(mins) && label) {
-      label.textContent = mins < 2 ? "Actualizado ahora" : mins < 60 ? `Actualizado hace ${mins} min`
-        : mins < 24 * 60 ? `Actualizado hace ${Math.round(mins / 60)} h`
-        : "Actualizado el " + t.toLocaleDateString("es-MX", { day: "numeric", month: "short" });
+      label.textContent = KO
+        ? (mins < 2 ? "방금 업데이트" : mins < 60 ? `${mins}분 전 업데이트` : mins < 24 * 60 ? `${Math.round(mins / 60)}시간 전 업데이트`
+          : t.toLocaleDateString(LOC, { month: "long", day: "numeric" }) + " 업데이트")
+        : (mins < 2 ? "Actualizado ahora" : mins < 60 ? `Actualizado hace ${mins} min`
+          : mins < 24 * 60 ? `Actualizado hace ${Math.round(mins / 60)} h`
+          : "Actualizado el " + t.toLocaleDateString(LOC, { day: "numeric", month: "short" }));
     }
   }
 
@@ -31,7 +35,9 @@
   $$("[data-eff]").forEach((el) => {
     const [y, m, d] = el.dataset.eff.split("-").map(Number), eff = new Date(y, m - 1, d);
     const n = Math.round((eff - today) / 864e5);
-    el.textContent = n > 1 ? `Entra en vigor en ${n} días` : n === 1 ? "Entra en vigor mañana" : n === 0 ? "Entra en vigor hoy"
+    el.textContent = KO
+      ? (n > 1 ? `${n}일 후 시행` : n === 1 ? "내일 시행" : n === 0 ? "오늘 시행" : `${y}년 ${m}월 ${d}일 시행`)
+      : n > 1 ? `Entra en vigor en ${n} días` : n === 1 ? "Entra en vigor mañana" : n === 0 ? "Entra en vigor hoy"
       : `En vigor desde el ${d} de ${MES[m - 1]} de ${y}`;
     el.classList.toggle("is-soon", n >= 0 && n <= 7);
   });
@@ -52,7 +58,7 @@
 
   /* count-up stats */
   if (!reduce && "IntersectionObserver" in window) {
-    const fmt = new Intl.NumberFormat("es-MX");
+    const fmt = new Intl.NumberFormat(LOC);
     const io = new IntersectionObserver((es) => es.forEach((e) => {
       if (!e.isIntersecting) return;
       io.unobserve(e.target);
@@ -97,7 +103,7 @@
   $$("[data-copy]").forEach((b) => b.addEventListener("click", async () => {
     const url = b.dataset.copy || location.href;
     try { await navigator.clipboard.writeText(url.startsWith("http") ? url : location.href); } catch (e) { return; }
-    const t = b.textContent; b.textContent = "¡Enlace copiado!"; setTimeout(() => (b.textContent = t), 1600);
+    const t = b.textContent; b.textContent = b.dataset.copied || "¡Enlace copiado!"; setTimeout(() => (b.textContent = t), 1600);
   }));
 
   /* floating WhatsApp button hides while the big call-to-action is on screen */
@@ -111,10 +117,10 @@
   if (!dlg || typeof dlg.showModal !== "function") return;
   const q = $("#search-q"), list = $("#search-r");
   let data = null, sel = 0, results = [];
-  const fold = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const fold = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").normalize("NFC").toLowerCase();   // NFC again: Hangul stays one character per syllable
   const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const fecha = (d) => new Date(d + "T12:00:00").toLocaleDateString("es-MX", { day: "numeric", month: "short", year: "numeric" });
-  const load = () => data ? Promise.resolve(data) : fetch("/buscar.json").then((r) => r.json()).then((j) => (data = j.map((x) => ({ ...x, f: fold(x.h + " " + x.t.join(" ") + " " + x.s) }))));
+  const fecha = (d) => new Date(d + "T12:00:00").toLocaleDateString(LOC, { day: "numeric", month: "short", year: "numeric" });
+  const load = () => data ? Promise.resolve(data) : fetch(dlg.dataset.index || "/buscar.json").then((r) => r.json()).then((j) => (data = j.map((x) => ({ ...x, f: fold(x.h + " " + x.t.join(" ") + " " + x.s) }))));
   const mark = (h, terms) => {
     let out = esc(h);
     terms.forEach((t) => {
@@ -126,7 +132,7 @@
   };
   const render = () => {
     const terms = fold(q.value.trim()).split(/\s+/).filter(Boolean);
-    if (!data) { list.innerHTML = '<li class="empty">Cargando…</li>'; return; }
+    if (!data) { list.innerHTML = `<li class="empty">${esc(dlg.dataset.loading || "…")}</li>`; return; }
     if (!terms.length) results = data.filter((x) => x.x).slice(0, 8);
     else {
       results = data.map((x) => {
@@ -138,7 +144,7 @@
     sel = 0;
     list.innerHTML = results.length ? results.map((x, i) =>
       `<li><a href="${esc(x.p)}" role="option" aria-selected="${i === sel}"${x.x ? "" : ' rel="noopener"'}><span class="dot dot-${x.k}" aria-hidden="true"></span><span>${mark(x.h, terms)}</span><span class="m">${esc(x.s)} · ${fecha(x.d)}${x.t.length ? " · " + esc(x.t.join(", ")) : ""}</span></a></li>`
-    ).join("") : '<li class="empty">Sin resultados. Prueba con otra palabra.</li>';
+    ).join("") : `<li class="empty">${esc(dlg.dataset.empty || "")}</li>`;
   };
   const move = (d) => {
     const as = $$("a", list); if (!as.length) return;

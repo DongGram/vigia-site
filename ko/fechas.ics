@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vigia//Fechas del Diario Oficial//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vigía · Entradas en vigor
+X-WR-TIMEZONE:America/Mexico_City
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:mx-dof-5800401@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:참고 · CONDUSEF\, 2026년 9월 23일 치와와 대면 서비스
+  중단
+DESCRIPTION:CONDUSEF는 기상 상황으로 인해 2026년 9월 23일 치
+ 와와주 소재 북부 제3민원센터의 대면 서비스 및 법정 
+ 기한을 중단합니다. 원격 절차 및 전자민원(Queja Electrón
+ ica)은 계속 이용 가능합니다.\n\nhttps://vigiadof.com/ko/p/dof/5
+ 800401/
+URL:https://vigiadof.com/ko/p/dof/5800401/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5800405@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:참고 · 허리케인 폴로로 인한 PRODECON 소노라 지부 
+ 휴무일 지정
+DESCRIPTION:허리케인 폴로로 인해 2026년 9월 29일이 PRODECON 
+ 소노라 지부에 한해 휴무일로 지정되어 해당 기관의 법
+ 적 기한이 정지됩니다.\n\nhttps://vigiadof.com/ko/p/dof/5800405/
+URL:https://vigiadof.com/ko/p/dof/5800405/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5800157@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:참고 · 2026년 세무잡칙결의 개정: FIFA 선수 ISR 및 
+ 디젤 기준가격
+DESCRIPTION:SAT는 2026년 세무잡칙결의 제2차 개정을 발표하
+ 여\, 2026 FIFA 월드컵 외국인 선수의 ISR 납부 규정을 조정
+ 하고\, 10월까지의 디젤 기준가격 요소를 갱신하며\, 공
+ 제 승인 단체에 대한 벌금 관련 경과규정을 추가하였습
+ 니다. 이는…\n\nhttps://vigiadof.com/ko/p/dof/5800157/
+URL:https://vigiadof.com/ko/p/dof/5800157/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-118-011026-pdf-p6@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:조치 필요 · 타마울리파스 주지사\, 연방노동법 
+ 제1008조 제재권한 위임
+DESCRIPTION:타마울리파스 주지사는 연방노동법 제1008조(16
+ 편\, 행정제재)에 규정된 제재권한을 동법 제523조 제3항
+ 에 따라 하급 공무원에게 위임하는 결정을 발표하였습
+ 니다. 타마울리파스에서 운영하는 기업은 노동감독 통
+ 지 및 행정제재 절차와 관련하여 새로 위임된…\n\nhttps:
+ //vigiadof.com/ko/p/tamaulipas/cli-118-011026-pdf-p6/
+URL:https://vigiadof.com/ko/p/tamaulipas/cli-118-011026-pdf-p6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5799957@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:검토 · '엘 부엔 핀' 2026 전자결제 촉진을 위한 세
+ 제 혜택 법령 발표
+DESCRIPTION:이 법령은 2026년 '엘 부엔 핀(El Buen Fin)' 판촉 행
+ 사에 참여하는 금융기관 및 카드 발행사에 대해 카드 
+ 소지자 및 우승 상인에게 지급한 경품 금액만큼 소득세
+ (ISR)에서 공제할 수 있는 세제 혜택을 부여합니다. 연간
+  소득이…\n\nhttps://vigiadof.com/ko/p/dof/5799957/
+URL:https://vigiadof.com/ko/p/dof/5799957/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-116-290926-ev-pdf-66-486@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:참고 · 타마울리파스 의회 임시회의 소집 공고
+DESCRIPTION:제조 기업에 직접적인 영향이 없는 내부 입법 
+ 절차입니다.\n\nhttps://vigiadof.com/ko/p/tamaulipas/cli-116-290926-e
+ v-pdf-66-486/
+URL:https://vigiadof.com/ko/p/tamaulipas/cli-116-290926-ev-pdf-66-486/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5799453@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:참고 · FONATUR\, 부동산 매각 공개입찰 공고
+DESCRIPTION:FONATUR 공개입찰 공고 번호 FONATUR-LP-DC-003-2026이
+ 며\, 수출 제조업체와는 직접적인 관련이 없습니다.\n\nh
+ ttps://vigiadof.com/ko/p/dof/5799453/
+URL:https://vigiadof.com/ko/p/dof/5799453/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-113-220926-pdf-66-483@vigia
+DTSTAMP:20261006T150510Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:참고 · 타마울리파스 의회 임시회 소집 공고
+DESCRIPTION:타마울리파스 의회의 내부 입법 절차로 수출제
+ 조기업에 직접적인 영향이 없습니다.\n\nhttps://vigiadof.com
+ /ko/p/tamaulipas/cli-113-220926-pdf-66-483/
+URL:https://vigiadof.com/ko/p/tamaulipas/cli-113-220926-pdf-66-483/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -89,7 +89,7 @@ kbd { font: 500 .72rem var(--mono); border: 1px solid var(--line-2); border-bott
 .display-item { font-size: clamp(2.1rem, 4.6vw, 3.6rem); max-width: 22ch; line-height: 1.04; }
 .lead { font-size: clamp(1.05rem, 1.6vw, 1.2rem); color: var(--ink-2); max-width: 60ch; margin: 0 0 26px; }
 .mast-sem { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 26px; }
-.mast-cta { display: flex; flex-wrap: wrap; gap: 10px; }
+.mast-cta { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
 
 /* ---------- buttons, chips, semáforo */
 .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 46px; padding: 0 20px; border-radius: 999px; background: var(--brand); color: var(--brand-ink); text-decoration: none; font: 600 .97rem var(--sans); border: 0; cursor: pointer; transition: transform .2s, box-shadow .2s, background .2s; }
@@ -358,3 +358,82 @@ a.cal-c[data-tip]:hover::after { content: attr(data-tip); position: absolute; bo
   .wa-float { display: grid; }
 }
 @media (min-width: 641px) { .wa-float { display: none !important; } }
+
+/* ---------- Korean: Hangul falls back to Noto (Instrument Serif and Geist have no Hangul); lines break between words */
+html:lang(ko) { --serif: "Instrument Serif", "Noto Serif KR", ui-serif, serif; --sans: "Geist", "Noto Sans KR", system-ui, sans-serif; }
+html:lang(ko) body { word-break: keep-all; overflow-wrap: anywhere; }
+html:lang(ko) .display, html:lang(ko) .card-hero h3, html:lang(ko) .cta h2, html:lang(ko) .sec-h h2, html:lang(ko) .sec-title { letter-spacing: -.01em; font-weight: 500; }
+html:lang(ko) .display { line-height: 1.12; }
+html:lang(ko) .kicker { letter-spacing: .04em; }
+
+/* ---------- header extras */
+.lang-sw { flex: none; display: inline-grid; place-items: center; min-width: 38px; height: 38px; padding: 0 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--muted); text-decoration: none; font-size: .82rem; font-weight: 500; transition: color .2s, border-color .2s; }
+.lang-sw:hover { color: var(--ink); border-color: var(--line-2); }
+.foot-nav { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 6px 0 4px; }
+.foot-nav a { color: var(--ink-2); text-decoration: none; }
+.foot-nav a:hover { color: var(--accent); text-decoration: underline; }
+.sr, .nl-hp { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- rows: one publication per line, date block first (dates, topics, agencies) */
+.rows { list-style: none; margin: 0 0 8px; padding: 0; }
+.rows-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 28px; }
+.row { border-bottom: 1px solid var(--line); }
+.row a { display: flex; gap: 16px; align-items: flex-start; padding: 14px 4px; text-decoration: none; transition: padding .2s; }
+.row a:hover { padding-left: 10px; }
+.row a:hover .row-h { color: var(--accent); }
+.row-d { flex: none; width: 54px; display: grid; justify-items: center; padding: 6px 0 5px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); line-height: 1; }
+.row-d.is-soon { background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 40%, transparent); }
+.row-dd { font-size: 1.35rem; font-weight: 500; }
+.row-mm { font-size: .66rem; letter-spacing: .08em; color: var(--muted); margin-top: 4px; }
+.row-b { display: grid; gap: 4px; min-width: 0; }
+.row-h { font-weight: 500; line-height: 1.35; transition: color .2s; }
+.row-m { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; }
+.row-m .dot { margin-right: 2px; }
+
+/* ---------- hubs: topic and agency cards */
+.hubs { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-bottom: 28px; }
+.hub { display: grid; gap: 8px; align-content: start; padding: 20px; border-radius: var(--r); background: var(--surface); border: 1px solid var(--line); text-decoration: none; transition: transform .25s cubic-bezier(.2, .7, .3, 1), box-shadow .25s, border-color .25s; }
+.hub:hover { transform: translateY(-2px); box-shadow: var(--shadow); border-color: var(--line-2); }
+.hub-h { font: 400 1.6rem/1.1 var(--serif); }
+.hub-l { display: flex; gap: 8px; align-items: baseline; color: var(--ink-2); }
+.hub-l .dot { transform: translateY(-1px); }
+.hub-n { color: var(--accent); margin-top: 4px; }
+
+/* ---------- business page */
+.feats { margin-top: 24px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.feat { padding: 24px; border-radius: var(--r); background: var(--surface); border: 1px solid var(--line); }
+.feat h2 { font: 400 1.55rem/1.15 var(--serif); margin: 10px 0 8px; }
+.feat p { margin: 0; }
+.feat-n { color: var(--accent); font-size: .85rem; }
+.mail { max-width: 720px; border-radius: var(--r); border: 1px solid var(--line); background: var(--surface-2); padding: 0 14px 14px; box-shadow: var(--shadow); }
+.mail-h { display: flex; justify-content: space-between; padding: 12px 6px; color: var(--muted); }
+.steps { counter-reset: s; list-style: none; padding: 0; margin: 0 0 24px; display: grid; gap: 10px; max-width: 720px; }
+.steps li { counter-increment: s; display: flex; gap: 14px; align-items: baseline; padding: 14px 16px; border-radius: var(--r-sm); background: var(--surface); border: 1px solid var(--line); }
+.steps li::before { content: counter(s); font: 500 .85rem var(--mono); color: var(--accent); }
+.prose { max-width: 72ch; }
+.prose h2 { font: 400 1.5rem/1.2 var(--serif); margin: 30px 0 8px; }
+.video-note { margin: -14px 0 22px; }
+a.chip { text-decoration: none; }
+
+/* ---------- newsletter signup */
+.nl { margin: 72px 0 0; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 420px); gap: 24px 40px; align-items: center; padding: 30px; border-radius: 26px; background: var(--surface); border: 1px solid var(--line); }
+.nl h2 { font: 400 clamp(1.6rem, 3vw, 2.2rem)/1.1 var(--serif); margin: 0 0 8px; }
+.nl p { margin: 0; }
+.nl-form { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; }
+.nl-form input[type=email] { min-height: 46px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--paper); color: var(--ink); font: 400 1rem var(--sans); min-width: 0; }
+.nl-form input[type=email]:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.nl-form p { grid-column: 1 / -1; }
+.nl + .cta, .nl ~ section .cta { margin-top: 18px; }
+
+@media (max-width: 900px) {
+  .feats { grid-template-columns: 1fr; }
+  .rows-2 { grid-template-columns: 1fr; }
+  .nl { grid-template-columns: 1fr; }
+}
+@media (max-width: 640px) {
+  .nav .nav-x { display: none; }
+  .lang-sw { min-width: 34px; height: 34px; padding: 0 8px; }
+  .row-d { width: 48px; }
+  .nl { padding: 22px; }
+  .nl-form { grid-template-columns: 1fr; }
+}
