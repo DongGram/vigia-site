@@ -154,9 +154,14 @@ kbd { font: 500 .72rem var(--mono); border: 1px solid var(--line-2); border-bott
 .card-hero .sem-amarillo { background: #FBEFD2; color: #8A5A00; } .card-hero .sem-amarillo .sem-i { background: #8A5A00; color: #fff; }
 .card-hero .sem-verde { background: #E2F2E7; color: #1F7A45; } .card-hero .sem-verde .sem-i { background: #1F7A45; color: #fff; }
 .card-hero { overflow: hidden; }
-.card-hero > *:not(.hero-num) { position: relative; z-index: 1; }
+/* content above the big numeral; the title's link stretches over the whole card, the video button above it */
+.card-hero > *:not(.hero-num):not(h3) { position: relative; z-index: 1; }
+.card-hero .stretched::after { z-index: 2; }
 .hero-num { position: absolute; right: 18px; bottom: 34px; font: italic 400 clamp(8rem, 16vw, 15rem)/.8 var(--serif); letter-spacing: -.04em; color: color-mix(in srgb, var(--accent) 55%, transparent); opacity: .5; pointer-events: none; }
-.hero-play { align-self: flex-start; display: inline-flex; gap: 8px; align-items: center; margin-top: 6px; padding: 8px 14px; border-radius: 999px; background: color-mix(in srgb, var(--hero-ink) 12%, transparent); font-weight: 600; font-size: .9rem; }
+.card-hero > a.hero-play { z-index: 3; }              /* beats the z-index: 1 rule above (same specificity, later) */
+.hero-play { align-self: flex-start; display: inline-flex; gap: 8px; align-items: center; margin-top: 6px; padding: 8px 14px; border-radius: 999px; background: color-mix(in srgb, var(--hero-ink) 12%, transparent); color: inherit; text-decoration: none; font-weight: 600; font-size: .9rem; transition: background .2s; }
+.hero-play:hover { background: var(--accent); color: #fff; }
+.hero-play:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .card-hero .pill-vid { background: #FFE3EC; color: #C42A5E; }
 .bento > .card:only-child { grid-column: 1 / -1; }
 
@@ -193,7 +198,7 @@ kbd { font: 500 .72rem var(--mono); border: 1px solid var(--line-2); border-bott
 .vcard:hover .vthumb img { transform: scale(1.04); }
 .vplay { position: absolute; left: 12px; bottom: 12px; width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; background: rgba(255, 255, 255, .92); color: #111; font-size: .85rem; }
 .vt { font-weight: 600; font-size: .92rem; line-height: 1.3; }
-.video { position: relative; width: 100%; max-width: 340px; aspect-ratio: 9 / 16; margin: 0 0 24px; border-radius: var(--r); overflow: hidden; background: #000; box-shadow: var(--shadow); }
+.video { scroll-margin-top: 90px; position: relative; width: 100%; max-width: 340px; aspect-ratio: 9 / 16; margin: 0 0 24px; border-radius: var(--r); overflow: hidden; background: #000; box-shadow: var(--shadow); }
 .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 
 /* ---------- stats */
