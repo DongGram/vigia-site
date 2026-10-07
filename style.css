@@ -437,3 +437,10 @@ a.chip { text-decoration: none; }
   .nl { padding: 22px; }
   .nl-form { grid-template-columns: 1fr; }
 }
+
+/* ---------- dates page calendar: days with publications taking effect, linked to the list */
+.months-eff { margin-bottom: 8px; }
+.cal-c.is-past { opacity: .55; }
+.cal-c.is-today { box-shadow: inset 0 0 0 2px var(--accent); font-weight: 600; }
+.rows .row[id] { scroll-margin-top: 84px; }
+.rows .row:target { background: var(--accent-soft); border-radius: 12px; }
