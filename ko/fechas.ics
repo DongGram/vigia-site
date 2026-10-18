@@ -8,22 +8,64 @@ X-WR-TIMEZONE:America/Mexico_City
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mx-dof-5800953@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:참고 · 폭우로 인한 누에보레온 지역법원 업무 일
- 시 중단
-DESCRIPTION:폭우와 홍수로 인해 2026년 10월 2일 누에보레온 
- 연방행정사법재판소의 사법 업무가 중단되며\, 해당 기
- 간 동안 소송 기한이 진행되지 않습니다.\n\nhttps://vigiado
- f.com/ko/p/dof/5800953/
-URL:https://vigiadof.com/ko/p/dof/5800953/
+UID:mx-dof-5801457@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:검토 · 재무부\, 2026년 10월 17-23일 연료 특별소비
+ 세(IEPS) 인센티브 발표
+DESCRIPTION:재무부(SHCP)는 2026년 10월 17일부터 23일까지 적
+ 용되는 연료 특별소비세(IEPS) 인센티브 비율과 금액을 
+ 발표했습니다. 91옥탄 미만 휘발유는 59.48%($3.9852/리터)\,
+  91옥탄 이상 휘발유는 66.19%($3.7451/리터)\,…\n\nhttps://vigi
+ adof.com/ko/p/dof/5801457/
+URL:https://vigiadof.com/ko/p/dof/5801457/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5801458@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:검토 · 재무부\, 국경지역 휘발유 세제 인센티브 
+ 발표(2026년 10월 17-23일)
+DESCRIPTION:재무부(SHCP)는 결정 156/2026호를 통해 미국과의 2
+ 0km 국경지대 및 20-45km 구역 내 휘발유 판매에 적용되는 
+ 특별소비세(IEPS) 세제 인센티브 금액을 발표하였으며\, 
+ 적용 기간은 2026년 10월 17일부터 23일까지이고 금액은…
+ \n\nhttps://vigiadof.com/ko/p/dof/5801458/
+URL:https://vigiadof.com/ko/p/dof/5801458/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5801459@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:참고 · 과테말라 접경지역 휘발유 세제 혜택 금액
+  공고(2026.10.17-23)
+DESCRIPTION:과테말라 남부 접경지역 밖의 수출 제조기업에
+ 는 해당되지 않습니다.\n\nhttps://vigiadof.com/ko/p/dof/5801459/
+URL:https://vigiadof.com/ko/p/dof/5801459/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5801259@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:참고 · IMPI\, 허리케인 이사이아스로 메리다 유카
+ 탄 사무소 기한 중단
+DESCRIPTION:멕시코 산업재산권청(IMPI)은 허리케인 이사이
+ 아스로 인한 불가항력으로 2026년 10월 8일 메리다 유카
+ 탄 지역사무소 4의 절차 기한을 중단하였습니다.\n\nhttps
+ ://vigiadof.com/ko/p/dof/5801259/
+URL:https://vigiadof.com/ko/p/dof/5801259/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800917@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:검토 · 재정부\, 2026년 10월 10일~16일 연료 특별소
@@ -38,7 +80,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800918@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:검토 · 재무부(SHCP)\, 2026년 10월 10일~16일 국경지역
@@ -53,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800919@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:참고 · 과테말라 국경지역 휘발유 세제 혜택\, 2026
@@ -68,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-poj-121-081026-pdf-p16@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:검토 · 국가에너지위원회\, 가스관 노선 천연가스
@@ -82,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-bc-poe-periodico-57-cxxxiii-2026106-numero-especial-p2@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:참고 · 보조 공증인 면허 및 시민보호 관련 지방
@@ -96,39 +138,8 @@ URL:https://vigiadof.com/ko/p/baja-california/periodico-57-cxxxiii-2026106
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mx-dof-5800157@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:참고 · 2026년 세무잡칙결의 개정: FIFA 선수 ISR 및 
- 디젤 기준가격
-DESCRIPTION:SAT는 2026년 세무잡칙결의 제2차 개정을 발표하
- 여\, 2026 FIFA 월드컵 외국인 선수의 ISR 납부 규정을 조정
- 하고\, 10월까지의 디젤 기준가격 요소를 갱신하며\, 공
- 제 승인 단체에 대한 벌금 관련 경과규정을 추가하였습
- 니다. 이는…\n\nhttps://vigiadof.com/ko/p/dof/5800157/
-URL:https://vigiadof.com/ko/p/dof/5800157/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mx-tamps-poe-cli-118-011026-pdf-p6@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:조치 필요 · 타마울리파스 주지사\, 연방노동법 
- 제1008조 제재권한 위임
-DESCRIPTION:타마울리파스 주지사는 연방노동법 제1008조(16
- 편\, 행정제재)에 규정된 제재권한을 동법 제523조 제3항
- 에 따라 하급 공무원에게 위임하는 결정을 발표하였습
- 니다. 타마울리파스에서 운영하는 기업은 노동감독 통
- 지 및 행정제재 절차와 관련하여 새로 위임된…\n\nhttps:
- //vigiadof.com/ko/p/tamaulipas/cli-118-011026-pdf-p6/
-URL:https://vigiadof.com/ko/p/tamaulipas/cli-118-011026-pdf-p6/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mx-dof-5799957@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:검토 · '엘 부엔 핀' 2026 전자결제 촉진을 위한 세
@@ -139,18 +150,6 @@ DESCRIPTION:이 법령은 2026년 '엘 부엔 핀(El Buen Fin)' 판촉 행
  (ISR)에서 공제할 수 있는 세제 혜택을 부여합니다. 연간
   소득이…\n\nhttps://vigiadof.com/ko/p/dof/5799957/
 URL:https://vigiadof.com/ko/p/dof/5799957/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mx-tamps-poe-cli-116-290926-ev-pdf-66-486@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:참고 · 타마울리파스 의회 임시회의 소집 공고
-DESCRIPTION:제조 기업에 직접적인 영향이 없는 내부 입법 
- 절차입니다.\n\nhttps://vigiadof.com/ko/p/tamaulipas/cli-116-290926-e
- v-pdf-66-486/
-URL:https://vigiadof.com/ko/p/tamaulipas/cli-116-290926-ev-pdf-66-486/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

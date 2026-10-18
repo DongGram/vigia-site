@@ -8,22 +8,63 @@ X-WR-TIMEZONE:America/Mexico_City
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mx-dof-5800953@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Informativo · Suspensión temporal de labores en Salas Regionales
-  de Nuevo León por lluvias
-DESCRIPTION:Se suspenden las actividades jurisdiccionales del Tribunal Fed
- eral de Justicia Administrativa en Nuevo León el 2 de octubre de 2026 po
- r lluvias e inundaciones\; no corren términos procesales en ese periodo.
- \n\nhttps://vigiadof.com/p/dof/5800953/
-URL:https://vigiadof.com/p/dof/5800953/
+UID:mx-dof-5801457@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles par
+ a el 17-23 octubre 2026
+DESCRIPTION:La SHCP da a conocer los porcentajes y montos del estímulo fi
+ scal del IEPS aplicable a gasolinas y diésel para el periodo del 17 al 2
+ 3 de octubre de 2026: gasolina menor a 91 octanos 59.48% ($3.9852/litro)\
+ , gasolina…\n\nhttps://vigiadof.com/p/dof/5801457/
+URL:https://vigiadof.com/p/dof/5801457/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5801458@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
+  para el 17-23 octubre 2026
+DESCRIPTION:La Secretaría de Hacienda y Crédito Público (SHCP) dio a co
+ nocer\, mediante Acuerdo 156/2026\, los montos de estímulos fiscales al 
+ IEPS aplicables a la venta de gasolinas en la franja fronteriza de 20 km 
+ y zona de 20-45…\n\nhttps://vigiadof.com/p/dof/5801458/
+URL:https://vigiadof.com/p/dof/5801458/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5801459@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
+ temala (17-23 oct 2026)
+DESCRIPTION:No aplica a empresas manufactureras de exportación fuera de l
+ a región fronteriza sur con Guatemala.\n\nhttps://vigiadof.com/p/dof/580
+ 1459/
+URL:https://vigiadof.com/p/dof/5801459/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5801259@vigia
+DTSTAMP:20261018T034819Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Informativo · IMPI suspende plazos en oficina de Mérida\, Yucat
+ án por huracán Isaías
+DESCRIPTION:El Instituto Mexicano de la Propiedad Industrial suspendió lo
+ s plazos en trámites de su Oficina Regional 4 en Mérida\, Yucatán\, el
+  8 de octubre de 2026\, por causa de fuerza mayor ante el huracán Isaía
+ s.\n\nhttps://vigiadof.com/p/dof/5801259/
+URL:https://vigiadof.com/p/dof/5801259/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800917@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
@@ -37,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800918@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -51,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800919@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -65,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-poj-121-081026-pdf-p16@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Revisa · CNE aprueba nuevas tarifas de transporte de gas natural 
@@ -80,7 +121,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-bc-poe-periodico-57-cxxxiii-2026106-numero-especial-p2@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Informativo · Patente de Notaria Adscrita y acuerdo municipal de 
@@ -94,37 +135,8 @@ URL:https://vigiadof.com/p/baja-california/periodico-57-cxxxiii-2026106-nu
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mx-dof-5800157@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Informativo · Modifican RMF 2026: ISR de jugadores FIFA y precio 
- base de diésel
-DESCRIPTION:El SAT publicó la Segunda Resolución de Modificaciones a la 
- RMF 2026\, que ajusta reglas sobre el pago de ISR de jugadores extranjero
- s de la Copa Mundial FIFA 2026\, actualiza los factores de precio base de
- l diésel hasta…\n\nhttps://vigiadof.com/p/dof/5800157/
-URL:https://vigiadof.com/p/dof/5800157/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mx-tamps-poe-cli-118-011026-pdf-p6@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Actúa · Gobernador de Tamaulipas delega facultad sancionadora de
- l artículo 1008 de la Ley Federal del Trabajo
-DESCRIPTION:El Gobernador de Tamaulipas emite un Acuerdo que delega la fac
- ultad sancionadora prevista en el artículo 1008 de la Ley Federal del Tr
- abajo (Título Dieciséis\, sanciones administrativas) en funcionarios su
- bordinados\,…\n\nhttps://vigiadof.com/p/tamaulipas/cli-118-011026-pdf-p
- 6/
-URL:https://vigiadof.com/p/tamaulipas/cli-118-011026-pdf-p6/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mx-dof-5799957@vigia
-DTSTAMP:20261014T190440Z
+DTSTAMP:20261018T034819Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · Decreto otorga estímulos fiscales para el sorteo 'El Bu
@@ -134,19 +146,6 @@ DESCRIPTION:El decreto otorga un estímulo fiscal acreditable contra el IS
  teo 'El Buen Fin' 2026\, por el monto entregado como premios a tarjetahab
  ientes y…\n\nhttps://vigiadof.com/p/dof/5799957/
 URL:https://vigiadof.com/p/dof/5799957/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mx-tamps-poe-cli-116-290926-ev-pdf-66-486@vigia
-DTSTAMP:20261014T190440Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Informativo · Convocatoria a sesión extraordinaria del Congreso 
- de Tamaulipas
-DESCRIPTION:Procedimiento legislativo interno sin impacto directo en empre
- sas manufactureras.\n\nhttps://vigiadof.com/p/tamaulipas/cli-116-290926-e
- v-pdf-66-486/
-URL:https://vigiadof.com/p/tamaulipas/cli-116-290926-ev-pdf-66-486/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
