@@ -9,35 +9,35 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:mx-dof-5801457@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles par
- a el 17-23 octubre 2026
-DESCRIPTION:La SHCP da a conocer los porcentajes y montos del estímulo fi
- scal del IEPS aplicable a gasolinas y diésel para el periodo del 17 al 2
- 3 de octubre de 2026: gasolina menor a 91 octanos 59.48% ($3.9852/litro)\
- , gasolina…\n\nhttps://vigiadof.com/p/dof/5801457/
+SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
+  17 al 23 de octubre de 2026
+DESCRIPTION:La SHCP da a conocer los porcentajes\, montos de estímulo fis
+ cal y cuotas disminuidas del IEPS aplicables a gasolinas y diésel para e
+ l periodo del 17 al 23 de octubre de 2026. Estímulo: gasolina menor a 91
+  octanos 59.48%…\n\nhttps://vigiadof.com/p/dof/5801457/
 URL:https://vigiadof.com/p/dof/5801457/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801458@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
-  para el 17-23 octubre 2026
-DESCRIPTION:La Secretaría de Hacienda y Crédito Público (SHCP) dio a co
- nocer\, mediante Acuerdo 156/2026\, los montos de estímulos fiscales al 
- IEPS aplicables a la venta de gasolinas en la franja fronteriza de 20 km 
- y zona de 20-45…\n\nhttps://vigiadof.com/p/dof/5801458/
+  para el 17-23 de octubre de 2026
+DESCRIPTION:El Acuerdo 156/2026 de la SHCP da a conocer los montos de los 
+ estímulos fiscales del IEPS aplicables a la enajenación de gasolinas en
+  la franja fronteriza de 20 km y en el territorio de 20 a 45 km con Estad
+ os Unidos\,…\n\nhttps://vigiadof.com/p/dof/5801458/
 URL:https://vigiadof.com/p/dof/5801458/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801459@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -50,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801259@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Informativo · IMPI suspende plazos en oficina de Mérida\, Yucat
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800917@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800918@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -92,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800919@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-poj-121-081026-pdf-p16@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Revisa · CNE aprueba nuevas tarifas de transporte de gas natural 
@@ -121,7 +121,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-bc-poe-periodico-57-cxxxiii-2026106-numero-especial-p2@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Informativo · Patente de Notaria Adscrita y acuerdo municipal de 
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5799957@vigia
-DTSTAMP:20261019T090458Z
+DTSTAMP:20261019T090819Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · Decreto otorga estímulos fiscales para el sorteo 'El Bu
