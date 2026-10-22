@@ -8,8 +8,137 @@ X-WR-TIMEZONE:America/Mexico_City
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:mx-dof-5801850@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Informativo · CONDUSEF suspende plazos y atención presencial en 
+ Nayarit el 12 de octubre de 2026
+DESCRIPTION:La CONDUSEF declara inhábil el día 12 de octubre de 2026 par
+ a los procedimientos ante la Unidad de Atención a Usuarios Occidente 5 e
+ n Nayarit\, por condiciones meteorológicas. Se suspende la atención pre
+ sencial\, pero los…\n\nhttps://vigiadof.com/p/dof/5801850/
+URL:https://vigiadof.com/p/dof/5801850/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i2@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Informativo · Chihuahua convoca licitación para camión platafor
+ ma con grúa y compactador neumático
+DESCRIPTION:Licitación pública presencial no aplicable a empresas manufa
+ ctureras de exportación.\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-o
+ cr-pdf-i2/
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i3@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Informativo · Convocatoria de licitación pública para rehabilit
+ ación de escuelas en Chihuahua
+DESCRIPTION:El ICHIFE convoca a la Licitación Pública Nacional ICHIFE-LP
+ -028-2026 para rehabilitaciones generales (aula digital) en cinco escuela
+ s de Chihuahua y Meoqui. Visita de obra: 26/10/2026\; junta de aclaracion
+ es:…\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i3/
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i3/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i5@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Informativo · Convocatoria de obra pública para escuelas en Chih
+ uahua
+DESCRIPTION:El ICHIFE convoca a licitación pública nacional N° ICHIFE-L
+ P-030-2026 para construcción y rehabilitación de aulas y bardas en escu
+ elas de Chihuahua\; apertura de propuestas el 10 de noviembre de 2026 y f
+ allo el 18 de…\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i5
+ /
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i5/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i6@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Informativo · Convocatoria pública para ampliación de redes de 
+ agua y drenaje en Ignacio Zaragoza\, Chihuahua
+DESCRIPTION:La Junta Central de Agua y Saneamiento del Estado de Chihuahua
+  convoca a la licitación pública presencial LA-JCAS-081-2026 para la am
+ pliación de red de agua entubada y drenaje sanitario en Fracc. Pradera D
+ orada\,…\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i6/
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i7@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Informativo · JMAS Juárez convoca licitación para obra de garza
+ \, rebombeo y tanque de agua
+DESCRIPTION:La Junta Municipal de Agua y Saneamiento de Juárez convoca a 
+ la Licitación Pública Estatal Presencial JMAS-DT-CT-OP-2026-27 para obr
+ a de garza\, rebombeo\, equipamiento de pozo\, línea de conducción y ta
+ nque de 5\,000 m3 en…\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-ocr
+ -pdf-i7/
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i7/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i8@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Informativo · UACH convoca licitación para equipo de diagnóstic
+ o digital en Odontología
+DESCRIPTION:La Universidad Autónoma de Chihuahua convoca la licitación p
+ ública presencial UACH-DA-A091001-2026-P para adquirir e instalar equipo
+  de red de diagnóstico digital (RX intraoral) para la Facultad de Odonto
+ logía. Bases…\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i8
+ /
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i8/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i10@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Informativo · Delicias convoca licitación pública para rehabili
+ tación de carpeta asfáltica
+DESCRIPTION:El Municipio de Delicias (Chihuahua) convoca la Licitación P
+ ública Nacional 25-LPOP-2026 para rehabilitar carpeta asfáltica en dos 
+ tramos de la ciudad\, con recursos de FODESEM 2026. Capital contable requ
+ erido:…\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i10/
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-chih-poe-po84-2026-ocr-pdf-i11@vigia
+DTSTAMP:20261022T090537Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Informativo · Delicias\, Chihuahua convoca licitación pública p
+ ara rehabilitación de carpeta asfáltica
+DESCRIPTION:El Municipio de Delicias (Chihuahua) convoca la Licitación P
+ ública Nacional 26-LPOP-2026 para rehabilitar carpeta asfáltica en dos 
+ tramos de la ciudad\, con recursos estatales FODESEM 2026. Costo de bases
+ : $2\,346.20 MXN\,…\n\nhttps://vigiadof.com/p/chihuahua/po84-2026-ocr-p
+ df-i11/
+URL:https://vigiadof.com/p/chihuahua/po84-2026-ocr-pdf-i11/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mx-dof-5801539@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Informativo · Se deroga criterio sobre bienes inmuebles de CFE y 
@@ -22,7 +151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801457@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
@@ -36,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801458@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -50,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801459@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -63,7 +192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801259@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Informativo · IMPI suspende plazos en oficina de Mérida\, Yucat
@@ -77,7 +206,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801266@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Informativo · INEGI publica calendario de días no laborables par
@@ -90,7 +219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-122-131026-pdf-p2@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Informativo · Reforma constitucional exige nacionalidad única pa
@@ -105,7 +234,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800917@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
@@ -119,7 +248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800918@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -133,7 +262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800919@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -147,7 +276,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-poj-121-081026-pdf-p16@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Revisa · CNE aprueba nuevas tarifas de transporte de gas natural 
@@ -162,7 +291,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5799957@vigia
-DTSTAMP:20261021T144620Z
+DTSTAMP:20261022T090537Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · Decreto otorga estímulos fiscales para el sorteo 'El Bu
