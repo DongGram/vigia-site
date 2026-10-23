@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:mx-dof-5801850@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Informativo · CONDUSEF suspende plazos y atención presencial en 
@@ -22,8 +22,53 @@ URL:https://vigiadof.com/p/dof/5801850/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mx-tamps-poe-cli-127-221026-pdf-p3@vigia
+DTSTAMP:20261023T090445Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Actúa · Licitación para suministro de refacciones y lubricantes
+  para la Secretaría de Marina en Tamaulipas
+DESCRIPTION:El Gobierno de Tamaulipas convoca a la licitación 57062002-03
+ 0-2026 para el suministro de refacciones\, lubricantes y materiales desti
+ nados a la Secretaría de Marina. Las bases tienen costo de 18 UMAS ($2\,
+ 111.58 MXN) y…\n\nhttps://vigiadof.com/p/tamaulipas/cli-127-221026-pdf-
+ p3/
+URL:https://vigiadof.com/p/tamaulipas/cli-127-221026-pdf-p3/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-127-221026-pdf-p6@vigia
+DTSTAMP:20261023T090445Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Revisa · Convocatoria de licitación pública para urbanización 
+ de vialidades en Cd. Victoria\, Tamaulipas
+DESCRIPTION:ITAVU convoca la Licitación Pública Nacional LPE-N001-ITAVU-
+ 2026 para urbanizar Av. Prosperidad y Av. Sinceridad en Cd. Victoria\, Ta
+ maulipas (redes de agua potable\, drenaje y pavimentación). Bases cuesta
+ n $2\,112.00\,…\n\nhttps://vigiadof.com/p/tamaulipas/cli-127-221026-pdf
+ -p6/
+URL:https://vigiadof.com/p/tamaulipas/cli-127-221026-pdf-p6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-127-221026-pdf-p14@vigia
+DTSTAMP:20261023T090445Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Informativo · Licitación de obra pública para rehabilitación d
+ e terracería en Río Bravo\, Tamaulipas
+DESCRIPTION:El Municipio de Río Bravo\, Tamaulipas convoca a licitación 
+ para la rehabilitación de terracería en calles del Ejido Cándido Aguil
+ ar\, con bases disponibles por $2\,500 MXN\, anticipo del 30% y financiam
+ iento de Fondos…\n\nhttps://vigiadof.com/p/tamaulipas/cli-127-221026-pd
+ f-p14/
+URL:https://vigiadof.com/p/tamaulipas/cli-127-221026-pdf-p14/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i2@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Informativo · Chihuahua convoca licitación para camión platafor
@@ -36,7 +81,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i3@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Informativo · Convocatoria de licitación pública para rehabilit
@@ -50,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i5@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Informativo · Convocatoria de obra pública para escuelas en Chih
@@ -65,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i6@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Informativo · Convocatoria pública para ampliación de redes de 
@@ -79,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i7@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Informativo · JMAS Juárez convoca licitación para obra de garza
@@ -94,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i8@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Informativo · UACH convoca licitación para equipo de diagnóstic
@@ -109,7 +154,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i10@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Informativo · Delicias convoca licitación pública para rehabili
@@ -123,7 +168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i11@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Informativo · Delicias\, Chihuahua convoca licitación pública p
@@ -138,7 +183,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801539@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Informativo · Se deroga criterio sobre bienes inmuebles de CFE y 
@@ -151,7 +196,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801457@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
@@ -165,7 +210,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801458@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -179,7 +224,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801459@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -191,22 +236,8 @@ URL:https://vigiadof.com/p/dof/5801459/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mx-dof-5801259@vigia
-DTSTAMP:20261022T164622Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Informativo · IMPI suspende plazos en oficina de Mérida\, Yucat
- án por huracán Isaías
-DESCRIPTION:El Instituto Mexicano de la Propiedad Industrial suspendió lo
- s plazos en trámites de su Oficina Regional 4 en Mérida\, Yucatán\, el
-  8 de octubre de 2026\, por causa de fuerza mayor ante el huracán Isaía
- s.\n\nhttps://vigiadof.com/p/dof/5801259/
-URL:https://vigiadof.com/p/dof/5801259/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mx-dof-5801266@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Informativo · INEGI publica calendario de días no laborables par
@@ -218,23 +249,8 @@ URL:https://vigiadof.com/p/dof/5801266/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mx-tamps-poe-cli-122-131026-pdf-p2@vigia
-DTSTAMP:20261022T164622Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Informativo · Reforma constitucional exige nacionalidad única pa
- ra gobernantes electos
-DESCRIPTION:Se reforman los artículos 82\, 116 y 122 de la Constitución 
- para exigir nacionalidad mexicana única a Presidente\, gobernadores y Je
- fe de Gobierno de la Ciudad de México\, prohibiendo adquirir otra nacion
- alidad durante el…\n\nhttps://vigiadof.com/p/tamaulipas/cli-122-131026-
- pdf-p2/
-URL:https://vigiadof.com/p/tamaulipas/cli-122-131026-pdf-p2/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mx-dof-5800917@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
@@ -248,7 +264,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800918@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -262,7 +278,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5800919@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -276,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-poj-121-081026-pdf-p16@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Revisa · CNE aprueba nuevas tarifas de transporte de gas natural 
@@ -291,7 +307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5799957@vigia
-DTSTAMP:20261022T164622Z
+DTSTAMP:20261023T090445Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · Decreto otorga estímulos fiscales para el sorteo 'El Bu
