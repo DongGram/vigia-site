@@ -8,8 +8,124 @@ X-WR-TIMEZONE:America/Mexico_City
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:mx-bc-poe-periodico-60-cxxxiii-20261023-seccion-i-i3@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Informativo · Baja California licita mobiliario educativo para es
+ cuelas básicas
+DESCRIPTION:La Oficialía Mayor de Gobierno de Baja California convoca a l
+ a licitación pública regional 32065001-111-2026 para adquirir mobiliari
+ o educativo (pizarrones y mesas) para escuelas de educación básica\, co
+ n recursos del…\n\nhttps://vigiadof.com/p/baja-california/periodico-60-
+ cxxxiii-20261023-seccion-i-i3/
+URL:https://vigiadof.com/p/baja-california/periodico-60-cxxxiii-20261023-s
+ eccion-i-i3/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-bc-poe-periodico-60-cxxxiii-20261023-indice-i30@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Informativo · Convocatoria pública 15 para obras de pavimentaci
+ ón y rehabilitación en Tijuana
+DESCRIPTION:El Ayuntamiento de Tijuana convoca a licitación pública para
+  obras de pavimentación de concreto hidráulico y rehabilitación de uni
+ dades deportivas en varias delegaciones\, con montos entre $1\,224\,000 y
+  $2\,151\,000 MXN\,…\n\nhttps://vigiadof.com/p/baja-california/periodic
+ o-60-cxxxiii-20261023-indice-i30/
+URL:https://vigiadof.com/p/baja-california/periodico-60-cxxxiii-20261023-i
+ ndice-i30/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5802077@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Actúa · Reforman Ley Aduanera: embargo precautorio por subvaluac
+ ión de mercancías
+DESCRIPTION:El Decreto reforma los artículos 144\, 151\, 153\, 154\, 177 
+ y 185 de la Ley Aduanera. Se establece que cuando el valor declarado en e
+ l pedimento sea inferior al valor de transacción de mercancías idéntic
+ as o similares…\n\nhttps://vigiadof.com/p/dof/5802077/
+URL:https://vigiadof.com/p/dof/5802077/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5802082@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
+  24 al 30 de octubre de 2026
+DESCRIPTION:La Subsecretaría de Ingresos de la SHCP publica el Acuerdo 15
+ 9/2026 con los porcentajes y montos del estímulo fiscal al IEPS aplicabl
+ es del 24 al 30 de octubre de 2026: gasolina menor a 91 octanos 48.31%…
+ \n\nhttps://vigiadof.com/p/dof/5802082/
+URL:https://vigiadof.com/p/dof/5802082/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5802083@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
+  norte para el 24-30 de octubre de 2026
+DESCRIPTION:La Secretaría de Hacienda y Crédito Público (SHCP) da a con
+ ocer los montos del estímulo fiscal al IEPS aplicable a la enajenación 
+ de gasolinas en la franja fronteriza de 20 km y hasta 45 km con EUA\, vig
+ ente del 24 al 30…\n\nhttps://vigiadof.com/p/dof/5802083/
+URL:https://vigiadof.com/p/dof/5802083/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5802084@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Informativo · SHCP publica estímulos fiscales a gasolinas en fro
+ ntera con Guatemala (24-30 oct 2026)
+DESCRIPTION:La Secretaría de Hacienda y Crédito Público publicó los mo
+ ntos de estímulos fiscales aplicables a la venta de gasolinas en municip
+ ios fronterizos con Guatemala (Campeche\, Tabasco y Chiapas) para el peri
+ odo del 24 al 30…\n\nhttps://vigiadof.com/p/dof/5802084/
+URL:https://vigiadof.com/p/dof/5802084/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-ext-no-40-231026-pdf-p1@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Informativo · Auditoría Superior de Tamaulipas declara inhábil 
+ el 9 de noviembre de 2026
+DESCRIPTION:Acuerdo administrativo interno que agrega el lunes 9 de noviem
+ bre de 2026 como día inhábil en la Auditoría Superior del Estado de Ta
+ maulipas por su 25 aniversario\, suspendiendo plazos y términos de proce
+ dimientos ante…\n\nhttps://vigiadof.com/p/tamaulipas/cli-ext-no-40-2310
+ 26-pdf-p1/
+URL:https://vigiadof.com/p/tamaulipas/cli-ext-no-40-231026-pdf-p1/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-tamps-poe-cli-ext-no-40-231026-pdf-p2@vigia
+DTSTAMP:20261026T091718Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Informativo · Tamaulipas reforma calendario de evaluación de pro
+ gramas de gasto federalizado 2026
+DESCRIPTION:Acuerdo interno de la administración estatal de Tamaulipas qu
+ e no genera obligaciones para empresas privadas.\n\nhttps://vigiadof.com/
+ p/tamaulipas/cli-ext-no-40-231026-pdf-p2/
+URL:https://vigiadof.com/p/tamaulipas/cli-ext-no-40-231026-pdf-p2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mx-dof-5801850@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Informativo · CONDUSEF suspende plazos y atención presencial en 
@@ -23,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-127-221026-pdf-p3@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Actúa · Licitación para suministro de refacciones y lubricantes
@@ -38,7 +154,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-127-221026-pdf-p6@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Revisa · Convocatoria de licitación pública para urbanización 
@@ -53,7 +169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-127-221026-pdf-p14@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Informativo · Licitación de obra pública para rehabilitación d
@@ -68,7 +184,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i1@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Revisa · Chihuahua reforma artículo 7 del Reglamento de Adquisic
@@ -82,7 +198,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i2@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Informativo · Chihuahua convoca licitación para camión platafor
@@ -95,7 +211,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i3@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Informativo · Convocatoria de licitación pública para rehabilit
@@ -109,7 +225,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i5@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Informativo · Convocatoria de obra pública para escuelas en Chih
@@ -124,7 +240,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i6@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Informativo · Convocatoria pública para ampliación de redes de 
@@ -138,7 +254,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i7@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Informativo · JMAS Juárez convoca licitación para obra de garza
@@ -153,7 +269,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i8@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Informativo · UACH convoca licitación para equipo de diagnóstic
@@ -168,7 +284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i10@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Informativo · Delicias convoca licitación pública para rehabili
@@ -182,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i11@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Informativo · Delicias\, Chihuahua convoca licitación pública p
@@ -197,7 +313,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801539@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Informativo · Se deroga criterio sobre bienes inmuebles de CFE y 
@@ -210,7 +326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801457@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
@@ -224,7 +340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801458@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -238,7 +354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801459@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -251,7 +367,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801266@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Informativo · INEGI publica calendario de días no laborables par
@@ -263,36 +379,8 @@ URL:https://vigiadof.com/p/dof/5801266/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mx-dof-5800917@vigia
-DTSTAMP:20261023T121611Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS a combustibles del
-  10 al 16 de octubre 2026
-DESCRIPTION:La SHCP da a conocer los porcentajes\, montos de estímulo fis
- cal y cuotas disminuidas del IEPS aplicables a gasolinas y diésel para e
- l periodo del 10 al 16 de octubre de 2026. Estímulo diésel 100% ($7.363
- 4/litro más…\n\nhttps://vigiadof.com/p/dof/5800917/
-URL:https://vigiadof.com/p/dof/5800917/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mx-dof-5800918@vigia
-DTSTAMP:20261023T121611Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
-  para el 10-16 de octubre 2026
-DESCRIPTION:La Secretaría de Hacienda y Crédito Público (SHCP) da a con
- ocer\, mediante el Acuerdo 153/2026\, los montos del estímulo fiscal al 
- IEPS aplicable a la enajenación de gasolinas en la franja fronteriza de 
- 20 km y en la zona…\n\nhttps://vigiadof.com/p/dof/5800918/
-URL:https://vigiadof.com/p/dof/5800918/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mx-dof-5800919@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Informativo · Estímulos fiscales a gasolinas en frontera con Gua
@@ -306,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-poj-121-081026-pdf-p16@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Revisa · CNE aprueba nuevas tarifas de transporte de gas natural 
@@ -321,7 +409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5799957@vigia
-DTSTAMP:20261023T121611Z
+DTSTAMP:20261026T091718Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · Decreto otorga estímulos fiscales para el sorteo 'El Bu
