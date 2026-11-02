@@ -242,6 +242,10 @@ kbd { font: 500 .72rem var(--mono); border: 1px solid var(--line-2); border-bott
 .timeline li::before { content: ""; position: absolute; left: -24px; top: 5px; width: 10px; height: 10px; border-radius: 50%; background: var(--surface); border: 2px solid var(--line-2); }
 .timeline li.is-future::before { border-color: var(--accent); background: var(--accent); }
 .panel-actions { display: grid; gap: 8px; }
+.panel-biz { display: grid; gap: 8px; border-color: var(--ink); }
+.panel-biz .kicker { margin-bottom: 0; }
+.panel-biz p { margin: 0; }
+.panel-biz .btn { width: 100%; }
 .panel-actions .btn { width: 100%; }
 
 /* ---------- calendar heatmap (sequential: one hue, light to dark) */
