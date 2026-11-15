@@ -448,3 +448,25 @@ a.chip { text-decoration: none; }
 .cal-c.is-today { box-shadow: inset 0 0 0 2px var(--accent); font-weight: 600; }
 .rows .row[id] { scroll-margin-top: 84px; }
 .rows .row:target { background: var(--accent-soft); border-radius: 12px; }
+
+/* the content company's home (2026-11): the latest video leads, the gazette follows */
+.mast-video { grid-template-columns: minmax(0, 1fr) 300px; }
+.hero-video { display: flex; flex-direction: column; gap: 14px; text-decoration: none; color: var(--ink); }
+.hero-video .vthumb { box-shadow: var(--shadow); transform: rotate(1.5deg); transition: transform .4s; }
+.hero-video:hover .vthumb { transform: rotate(0deg) translateY(-4px); }
+.hero-video .vplay { left: 50%; top: 50%; bottom: auto; width: 64px; height: 64px; font-size: 1.3rem; transform: translate(-50%, -50%); }
+.hero-video-t { display: flex; flex-direction: column; gap: 4px; }
+.hero-video-t .kicker { margin: 0; }
+.hero-video-t strong { font: 400 1.25rem/1.25 var(--serif); }
+.lead-sm { font-size: 1rem; margin: 0 0 16px; max-width: 70ch; }
+.short-grid { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 48px; align-items: start; margin-top: 12px; }
+.short-grid .item-main { max-width: 64ch; }
+.short-video .video { margin-bottom: 14px; }
+.short-ai { margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--line); }
+@media (max-width: 900px) {
+  .mast-video { grid-template-columns: 1fr; }
+  .hero-video { flex-direction: row; align-items: center; }
+  .hero-video .vthumb { width: 132px; flex: none; transform: none; }
+  .short-grid { grid-template-columns: 1fr; gap: 20px; }
+  .short-video .video { margin-inline: auto; }
+}
