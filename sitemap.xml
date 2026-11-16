@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://vigiadof.com/</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://vigiadof.com/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://vigiadof.com/video/2026-11-15/</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://vigiadof.com/video/2026-11-13/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/video/2026-11-12/</loc><lastmod>2026-11-12</lastmod></url>
@@ -31,50 +31,74 @@
   <url><loc>https://vigiadof.com/video/2026-09-28/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://vigiadof.com/video/2026-09-25/</loc><lastmod>2026-09-25</lastmod></url>
   <url><loc>https://vigiadof.com/video/2026-09-23/</loc><lastmod>2026-09-23</lastmod></url>
-  <url><loc>https://vigiadof.com/dias/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/videos/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/fechas/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/temas/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/aduanas/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/comercio-exterior/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/laboral/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/fiscal/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/normas/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/medio-ambiente/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/energia/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/finanzas/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/contabilidad/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/tema/licitaciones/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencias/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/sat/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/imss/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/asea/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/cofepris/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/cne/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/inegi/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/shcp/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/economia/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/stps/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/semarnat/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/sener/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/sict/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/salud/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/sader/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/anticorrupcion/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/reynosa/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/nuevo-laredo/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/tampico/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/rio-bravo/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/monterrey/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/saltillo/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/torreon/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/dependencia/mexicali/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/empresas/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://vigiadof.com/privacidad/</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://vigiadof.com/dias/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/videos/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/fechas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/temas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/aduanas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/comercio-exterior/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/laboral/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/fiscal/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/normas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/medio-ambiente/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/energia/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/finanzas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/contabilidad/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/tema/licitaciones/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencias/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/sat/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/imss/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/asea/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/cofepris/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/cne/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/inegi/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/shcp/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/economia/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/stps/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/semarnat/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/sener/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/sict/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/salud/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/sader/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/anticorrupcion/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/reynosa/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/nuevo-laredo/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/tampico/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/rio-bravo/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/monterrey/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/saltillo/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/torreon/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dependencia/mexicali/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/empresas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/privacidad/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://vigiadof.com/dia/2026-11-14/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i6/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i7/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i8/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i10/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i11/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i12/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i13/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i14/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i15/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i16/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i17/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i18/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i19/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i20/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i21/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i22/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i23/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://vigiadof.com/p/chihuahua/po91-2026-pdf-i25/</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://vigiadof.com/dia/2026-11-13/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803757/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/dof/5803837/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803758/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/dof/5803838/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803759/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/dof/5803840/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/dof/5803841/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/dof/5803842/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803763/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803765/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803767/</loc><lastmod>2026-11-13</lastmod></url>
@@ -82,6 +106,19 @@
   <url><loc>https://vigiadof.com/p/dof/5803773/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803778/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803781/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/nuevo-leon/174820-000001-i20/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/nuevo-leon/174820-000001-i22/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/nuevo-leon/174820-000001-i31/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/nuevo-leon/174820-000001-i32/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i1/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-seccion-i-i2/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i2/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i4/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i5/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i8/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i10/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i12/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://vigiadof.com/p/baja-california/periodico-63-cxxxiii-20261113-indice-i22/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://vigiadof.com/dia/2026-11-12/</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803624/</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://vigiadof.com/p/dof/5803630/</loc><lastmod>2026-11-12</lastmod></url>
