@@ -8,8 +8,144 @@ X-WR-TIMEZONE:America/Mexico_City
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:mx-dof-5804614@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Informativo · FONATUR convoca licitación pública para venta de 
+ inmuebles federales
+DESCRIPTION:FONATUR convoca a la Licitación Pública No. FONATUR-LP-DC-00
+ 4-2026 para la venta de inmuebles federales\; las bases y convocatoria es
+ tán disponibles gratuitamente en el portal oficial de FONATUR.\n\nhttps:
+ //vigiadof.com/p/dof/5804614/
+URL:https://vigiadof.com/p/dof/5804614/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-bc-poe-periodico-64-cxxxiii-20261120-seccion-i-i2@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Informativo · Licitación pública para reparación de motores de
+  planta de bombeo CESPT Tijuana
+DESCRIPTION:Convocatoria OM-CESPT-169-2026 de la Dirección de Adquisicion
+ es de Baja California para el servicio de reparación de dos motores de 7
+ 00 HP de la planta de bombeo de CESPT Tijuana. Bases disponibles sin cost
+ o hasta el 26…\n\nhttps://vigiadof.com/p/baja-california/periodico-64-c
+ xxxiii-20261120-seccion-i-i2/
+URL:https://vigiadof.com/p/baja-california/periodico-64-cxxxiii-20261120-s
+ eccion-i-i2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-bc-poe-periodico-64-cxxxiii-20261120-seccion-i-i5@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Informativo · Licitación pública para plataforma de reconocimie
+ nto facial de la Fiscalía de Baja California
+DESCRIPTION:La Fiscalía General del Estado de Baja California convoca a l
+ a Licitación Pública Regional FGEBC/OM/LIC-REG/019/2026 para el suminis
+ tro de una plataforma de inteligencia de reconocimiento facial. Bases dis
+ ponibles sin…\n\nhttps://vigiadof.com/p/baja-california/periodico-64-cx
+ xxiii-20261120-seccion-i-i5/
+URL:https://vigiadof.com/p/baja-california/periodico-64-cxxxiii-20261120-s
+ eccion-i-i5/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-bc-poe-periodico-64-cxxxiii-20261120-indice-i11@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Revisa · Municipio de San Quintín convoca licitación de obra p
+ ública con plazos de calificación y pago
+DESCRIPTION:La Convocatoria Pública Estatal No. 04 del H. Ayuntamiento de
+  San Quintín\, B.C. establece: solicitud de calificación hasta el 21 de
+  noviembre de 2026\, 15:00 h\; resolución de calificación el 24 de novi
+ embre de 2026\,…\n\nhttps://vigiadof.com/p/baja-california/periodico-64
+ -cxxxiii-20261120-indice-i11/
+URL:https://vigiadof.com/p/baja-california/periodico-64-cxxxiii-20261120-i
+ ndice-i11/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-bc-poe-periodico-64-cxxxiii-20261120-indice-i12@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Revisa · Convocatoria pública de licitación de obra en San Quin
+ tín\, Baja California
+DESCRIPTION:El Ayuntamiento de San Quintín\, B.C. convoca licitación pú
+ blica de obra. Plazo límite de calificación: 24 de noviembre de 2026\, 
+ 15:00 h\; pago de Bases: 25 de noviembre de 2026 hasta las 14:30 h\, cost
+ o de 40 UMA…\n\nhttps://vigiadof.com/p/baja-california/periodico-64-cxx
+ xiii-20261120-indice-i12/
+URL:https://vigiadof.com/p/baja-california/periodico-64-cxxxiii-20261120-i
+ ndice-i12/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-bc-poe-periodico-64-cxxxiii-20261120-indice-i13@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Revisa · Convocatoria de licitación pública para bacheo asfált
+ ico en Tijuana\, B.C.
+DESCRIPTION:El Ayuntamiento de Tijuana convoca a la licitación DOIUM-2026
+ -CVC-RYM-LP-008 para bacheo asfáltico por inyección a presión en las n
+ ueve delegaciones del municipio. Bases disponibles del 20 al 30-NOV-2026\
+ , visita de obra…\n\nhttps://vigiadof.com/p/baja-california/periodico-6
+ 4-cxxxiii-20261120-indice-i13/
+URL:https://vigiadof.com/p/baja-california/periodico-64-cxxxiii-20261120-i
+ ndice-i13/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5804577@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Revisa · SHCP publica estímulos y cuotas de IEPS a combustibles 
+ del 21 al 27 de noviembre de 2026
+DESCRIPTION:La SHCP publicó el Acuerdo 173/2026 con los porcentajes y mon
+ tos del estímulo fiscal del IEPS aplicables a combustibles automotrices 
+ para el periodo del 21 al 27 de noviembre de 2026. Gasolinas (menor y may
+ or a 91…\n\nhttps://vigiadof.com/p/dof/5804577/
+URL:https://vigiadof.com/p/dof/5804577/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5804578@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
+  para el 21-27 de noviembre de 2026
+DESCRIPTION:La SHCP (Subsecretaría de Ingresos) da a conocer los montos d
+ el estímulo fiscal del IEPS aplicable a la venta de gasolinas en la fran
+ ja fronteriza de 20 km y la zona de 20 a 45 km con Estados Unidos\, vigen
+ tes del 21 al…\n\nhttps://vigiadof.com/p/dof/5804578/
+URL:https://vigiadof.com/p/dof/5804578/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-dof-5804579@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Informativo · SHCP publica estímulos fiscales a gasolinas en fro
+ ntera con Guatemala (21-27 nov 2026)
+DESCRIPTION:La SHCP publica los montos de estímulos fiscales aplicables a
+  la venta de gasolinas en municipios fronterizos con Guatemala (Campeche\
+ , Tabasco\, Chiapas) para el periodo del 21 al 27 de noviembre de 2026\, 
+ con montos…\n\nhttps://vigiadof.com/p/dof/5804579/
+URL:https://vigiadof.com/p/dof/5804579/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mx-dof-5804508@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Actúa · SE publica Decisión No. 11 que actualiza reglas de orig
@@ -22,8 +158,23 @@ URL:https://vigiadof.com/p/dof/5804508/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mx-tamps-poe-cli-ext-no-43-201126-pdf-p1@vigia
+DTSTAMP:20261123T091353Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Informativo · Tamaulipas reforma leyes de Salud\, Tránsito y Tur
+ ismo
+DESCRIPTION:Se publican tres decretos estatales: adición a la Ley de Salu
+ d para impulsar el modelo MAS-BIENESTAR y vinculación comunitaria\; refo
+ rma al artículo 19 Bis de la Ley de Tránsito sobre seguridad infantil y
+  pasajeros en…\n\nhttps://vigiadof.com/p/tamaulipas/cli-ext-no-43-20112
+ 6-pdf-p1/
+URL:https://vigiadof.com/p/tamaulipas/cli-ext-no-43-201126-pdf-p1/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mx-tamps-poe-cli-139-191126-pdf-p6@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Informativo · Convocatoria de licitación pública del gobierno d
@@ -37,7 +188,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-139-191126-pdf-p9@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Informativo · Licitación pública para suministro de combustible
@@ -51,7 +202,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-139-191126-pdf-p10@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Actúa · Requisitos de inscripción y pago para licitación públ
@@ -66,7 +217,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803859@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Informativo · México se declara zona libre de necrosis hematopoy
@@ -78,7 +229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803860@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Informativo · México se declara zona libre del herpesvirus de la
@@ -92,7 +243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803871@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Informativo · FOVISSSTE aprueba Programa de Financiamiento 2027 c
@@ -106,7 +257,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-137-171126-pdf-p3@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Actúa · Suprimen Juntas Especiales de Conciliación y Arbitraje 
@@ -121,7 +272,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-137-171126-pdf-p6@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Informativo · Licitación pública de equipo médico e instrument
@@ -135,7 +286,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-bc-poe-periodico-63-cxxxiii-20261113-indice-i4@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Informativo · UABC convoca licitación para construir hospital de
@@ -151,7 +302,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803757@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Revisa · Se expide la Ley de Ingresos de la Federación para 2027
@@ -164,7 +315,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803838@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Informativo · Reforman Ley General de Turismo para proteger a men
@@ -178,7 +329,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803840@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · SHCP publica estímulos fiscales IEPS para gasolinas y d
@@ -192,7 +343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803841@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · SHCP publica estímulos fiscales a gasolinas en frontera
@@ -206,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803842@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Informativo · SHCP publica estímulos fiscales a gasolinas en fro
@@ -220,7 +371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i5@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Informativo · Convocatoria de licitación pública para equipar 2
@@ -235,7 +386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i6@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Informativo · Chihuahua amplía horario de venta de alcohol por '
@@ -249,7 +400,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i8@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Informativo · COBACH Chihuahua licita mantenimiento e impermeabil
@@ -264,7 +415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i9@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Revisa · Convocatoria ICHIFE-LP-ADQ-008-2026 para equipamiento de
@@ -278,7 +429,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i10@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Revisa · Convocatoria de licitación pública para techumbre met
@@ -293,7 +444,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i11@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Revisa · Convocatoria de licitación pública para obras educativ
@@ -307,7 +458,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i13@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Informativo · Chihuahua licita 1\,588 tarjetas de vales de despen
@@ -321,7 +472,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i19@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Informativo · Licitación pública para adquisición de uniformes
@@ -333,7 +484,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i23@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Informativo · Convocatoria para construcción de techumbre tipo d
@@ -346,7 +497,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po90-2026-ocr-pdf-i24@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Informativo · Convocatoria municipal de Juárez para licitaciones
@@ -360,7 +511,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803537@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Revisa · SEMAR publica enmiendas al Convenio FAL 1965 de la OMI
@@ -373,7 +524,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803550@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Informativo · FOVISSSTE aprueba programa de reestructura de créd
@@ -387,7 +538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803557@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Informativo · FGR publica días inhábiles 2027 para transparenci
@@ -400,7 +551,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5803345@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Informativo · Aviso incorpora autoridades a interconexión digita
@@ -412,7 +563,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-134-101126-pdf-p8@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Informativo · Tamaulipas licita venta de 1\,100 toneladas de resi
@@ -427,7 +578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-134-101126-pdf-p11@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Informativo · Tamaulipas convoca licitación para puente internac
@@ -442,7 +593,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po88-2026-ocr-pdf-i6@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Informativo · Convocatoria de licitación pública para construcc
@@ -457,7 +608,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po88-2026-ocr-pdf-i8@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Informativo · Convocatoria de licitación pública para pavimenta
@@ -472,7 +623,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po88-2026-ocr-pdf-i11@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Informativo · Convocatoria pública de licitaciones para rehabili
@@ -487,7 +638,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po88-2026-ocr-pdf-i12@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Revisa · Convocatoria de obra pública para parque recreativo en 
@@ -502,7 +653,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-131-031126-pdf-p5@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Revisa · Tamaulipas licita construcción de puente vehicular en P
@@ -516,7 +667,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-coah-poe-87-ps-30-oct-2026-pdf-p2@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Informativo · Autorizan licencia temporal a titular del Registro 
@@ -529,7 +680,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-coah-poe-87-ps-30-oct-2026-pdf-p3@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Informativo · Autorizan licencia a titular de Oficialía del Regi
@@ -542,7 +693,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-coah-poe-87-ord-30-oct-2026-pdf-p40@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Informativo · Convocatoria a asamblea de accionistas de Importaci
@@ -554,7 +705,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-coah-poe-87-ord-30-oct-2026-pdf-p41@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Informativo · Convocatoria a asamblea de accionistas de Corporaci
@@ -567,7 +718,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5802601@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Informativo · SEMARNAT publica calendario 2026-2027 para observac
@@ -579,7 +730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-130-291026-pdf-p8@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Informativo · Licitación pública para mobiliario escolar en Tam
@@ -594,7 +745,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po86-2026-ocr-pdf-i3@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Informativo · Chihuahua aprueba programa 'Ahorra o Nunca' de desc
@@ -608,7 +759,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po86-2026-ocr-pdf-i7@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Actúa · Convocatoria de licitación de pavimentación en Morelos
@@ -622,7 +773,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5802199@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Informativo · INEGI suspende plazos del Órgano Interno de Contro
@@ -636,7 +787,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-bc-poe-periodico-60-cxxxiii-20261023-seccion-i-i3@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Informativo · Baja California licita mobiliario educativo para es
@@ -652,7 +803,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5802077@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Actúa · Reforman Ley Aduanera: embargo precautorio por subvaluac
@@ -666,7 +817,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-ext-no-40-231026-pdf-p1@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Informativo · Auditoría Superior de Tamaulipas declara inhábil 
@@ -681,7 +832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-cli-127-221026-pdf-p14@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Informativo · Licitación de obra pública para rehabilitación d
@@ -696,7 +847,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-chih-poe-po84-2026-ocr-pdf-i5@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Informativo · Convocatoria de obra pública para escuelas en Chih
@@ -711,7 +862,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5801266@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Informativo · INEGI publica calendario de días no laborables par
@@ -724,7 +875,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-tamps-poe-poj-121-081026-pdf-p16@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Revisa · CNE aprueba nuevas tarifas de transporte de gas natural 
@@ -739,7 +890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-dof-5799957@vigia
-DTSTAMP:20261122T111314Z
+DTSTAMP:20261123T091353Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Revisa · Decreto otorga estímulos fiscales para el sorteo 'El Bu
